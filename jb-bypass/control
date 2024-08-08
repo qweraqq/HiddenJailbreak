@@ -1,0 +1,9 @@
+Package: com.xx.jb-bypass
+Name: jb-bypass
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: x
+Author: x
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)

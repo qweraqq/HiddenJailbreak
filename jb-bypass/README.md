@@ -1,0 +1,1 @@
+[](https://github.com/kabiroberai/theos-jailed/wiki/Usage#adding-resources)
